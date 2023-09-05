@@ -1,0 +1,26 @@
+{
+  "cities": [
+    {
+      "cityName": "Golpazari",
+      "country": "Turkiye",
+      "date": "2023-09-05T03:48:14.765Z",
+      "notes": "Nice city\n",
+      "position": {
+        "lat": "40.196438954752395",
+        "lng": "30.135498046875004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Niphad",
+      "country": "India",
+      "date": "2023-09-05T03:52:54.546Z",
+      "notes": "beautiful temples",
+      "position": {
+        "lat": "20.08749166528858",
+        "lng": "73.93798828125001"
+      },
+      "id": 2
+    }
+  ]
+}
